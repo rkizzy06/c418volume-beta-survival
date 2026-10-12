@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "description": "\u00a76Survival music: C418 \u2013 Volume Beta only",
+    "pack_format": 22,
+    "supported_formats": [
+      22,
+      999
+    ],
+    "min_format": 22,
+    "max_format": 999
+  }
+}
